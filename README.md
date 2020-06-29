@@ -20,8 +20,8 @@ Repeat steps
 
 #3. Check libvirt's log that the virtual machine crashed
   ![](https://github.com/zelat/spice-security-issues/raw/master/Pictures/2020-06-28_170135.png)
-#4. Observe the virtual machine through virt-manage
-  ![](https://github.com/zelat/spice-security-issues/raw/master/Pictures/2020-06-28_114745.png)
+#4. Observe the virtual machine through virt-manage, found that the virtual machine has been restarted
+  ![](https://github.com/zelat/spice-security-issues/raw/master/Pictures/2020-06-29_114745.png)
 
 
   
